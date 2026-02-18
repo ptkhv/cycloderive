@@ -1,0 +1,2850 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-17T19:45:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27478928",
+        "esr:user": "037804",
+        "name": "Орехово",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004247",
+        "wikidata": "Q4336328",
+        "wikipedia": "ru:Орехово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2611406,
+          60.4644369
+        ]
+      },
+      "id": "node/27478928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27478959",
+        "esr:user": "037541",
+        "name": "Лемболово",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004770",
+        "wikidata": "Q4257843",
+        "wikipedia": "ru:Лемболово (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3331923,
+          60.4117022
+        ]
+      },
+      "id": "node/27478959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27478967",
+        "esr:user": "037556",
+        "name": "Лемболовское Озеро",
+        "old_name": "54 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004769",
+        "wikidata": "Q4031770",
+        "wikipedia": "ru:54-й километр (платформа, Ленинградская область)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3474092,
+          60.3881792
+        ]
+      },
+      "id": "node/27478967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27479021",
+        "esr:user": "037715",
+        "name": "Осельки",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004243",
+        "wikidata": "Q4337581",
+        "wikipedia": "ru:Осельки (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4940511,
+          60.2089864
+        ]
+      },
+      "id": "node/27479021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/65000141",
+        "esr:user": "039829",
+        "name": "Надежда",
+        "old_name": "106 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005313",
+        "wikidata": "Q18643833",
+        "wikipedia": "ru:106-й километр (платформа, Приморское направление)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9038202,
+          60.3551571
+        ]
+      },
+      "id": "node/65000141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/65005973",
+        "esr:user": "020502",
+        "name": "Советский",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005322",
+        "wikidata": "Q4426430",
+        "wikipedia": "ru:Советский (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6898125,
+          60.5285749
+        ]
+      },
+      "id": "node/65005973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/65007377",
+        "esr:user": "020610",
+        "name": "Пихтовое",
+        "railway": "station",
+        "uic_ref": "2005058",
+        "wikidata": "Q4363973",
+        "wikipedia": "ru:Пихтовая (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6843843,
+          60.5830562
+        ]
+      },
+      "id": "node/65007377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/65009200",
+        "esr:user": "020536",
+        "name": "Соколинское",
+        "name:en": "Sokolinskoye",
+        "name:ru": "Соколинское",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005198",
+        "wikidata": "Q4427031",
+        "wikipedia": "ru:Соколинское (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7665193,
+          60.6537349
+        ]
+      },
+      "id": "node/65009200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/66312593",
+        "esr:user": "020409",
+        "name": "Прибылово",
+        "name:fi": "Makslahti",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005264",
+        "wikidata": "Q4377736",
+        "wikipedia": "ru:Прибылово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7151711,
+          60.4527885
+        ]
+      },
+      "id": "node/66312593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/148094220",
+        "esr:user": "020305",
+        "name": "Приморск",
+        "old_name": "Койвисто",
+        "old_name:fi": "Koivisto asema",
+        "old_name:sv": "Björkö",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005176",
+        "wikidata": "Q19910809",
+        "wikipedia": "ru:Приморск (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6299344,
+          60.3652892
+        ]
+      },
+      "id": "node/148094220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/208870597",
+        "addr:city": "Lappeenranta",
+        "addr:housenumber": "23",
+        "addr:postcode": "53100",
+        "addr:street": "Ratakatu",
+        "alt_name": "Lappeenrannan rautatieasema",
+        "name": "Lappeenranta",
+        "name:en": "Lappeenranta",
+        "name:fi": "Lappeenranta",
+        "name:sv": "Villmanstrand",
+        "network": "VR",
+        "network:wikidata": "Q913248",
+        "operator": "Väylävirasto",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "287.726",
+        "railway:ref": "Lr",
+        "train": "yes",
+        "uic_ref": "1000495",
+        "wheelchair": "yes",
+        "wikidata": "Q4412038",
+        "wikipedia": "fi:Lappeenrannan rautatieasema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1951689,
+          61.0480613
+        ]
+      },
+      "id": "node/208870597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/224845097",
+        "esr:user": "020061",
+        "name": "Гвардейское",
+        "name:en": "Gvardeyskoye",
+        "name:fi": "Karisalmi",
+        "name:ru": "Гвардейское",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9572634,
+          60.798717
+        ]
+      },
+      "id": "node/224845097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245419167",
+        "esr:user": "022902",
+        "name": "Мюллюпельто",
+        "name:fi": "Myllypelto",
+        "name:ru": "Мюллюпельто",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004253",
+        "wikidata": "Q4310053",
+        "wikipedia": "ru:Мюллюпельто"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0800497,
+          60.9076748
+        ]
+      },
+      "id": "node/245419167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245427241",
+        "description": "остановка по требованию, в расписании этого оп нет; на местности информационный стенд с названием о.п. и расписанием",
+        "esr:user": "022349",
+        "name": "Пукинниеми",
+        "name:en": "Pukinniemi",
+        "name:fi": "Pukinniemi",
+        "name:ru": "Пукинниеми",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004739",
+        "wikidata": "Q83972691",
+        "wikipedia": "ru:Пуккиниеми (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5702823,
+          61.1880797
+        ]
+      },
+      "id": "node/245427241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245427483",
+        "esr:user": "022334",
+        "name": "Ояярви",
+        "name:en": "Ojajärvi",
+        "name:fi": "Ojajärvi",
+        "name:ru": "Ояярви",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005209",
+        "wikidata": "Q73267519",
+        "wikipedia": "ru:Ояярви (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5690053,
+          61.1454901
+        ]
+      },
+      "id": "node/245427483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245427906",
+        "esr:user": "022300",
+        "name": "Бородинское",
+        "name:en": "Borodinskoye",
+        "name:ru": "Бородинское",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005252",
+        "wikidata": "Q73270994",
+        "wikipedia": "ru:Бородинское (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4158241,
+          61.0190241
+        ]
+      },
+      "id": "node/245427906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245428839",
+        "esr:user": "021702",
+        "name": "Каменногорск",
+        "name:de": "Kamennogorsk",
+        "name:en": "Kamennogorsk",
+        "name:fi": "Antrea",
+        "name:fr": "Kamennogorsk",
+        "name:ru": "Каменногорск",
+        "name:sv": "St. Andrea",
+        "network": "Октябрьская железная дорога",
+        "network:en": "Oktyabrskaya Railway",
+        "network:ru": "Октябрьская железная дорога",
+        "network:wikidata": "Q1327441",
+        "old_name": "Antrea",
+        "old_name:fi": "Antrea",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005351",
+        "wikidata": "Q19742882",
+        "wikimedia_commons": "File:Ст. Каменногорск 5.jpg",
+        "wikipedia": "ru:Каменногорск I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1083847,
+          60.9621161
+        ]
+      },
+      "id": "node/245428839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245429326",
+        "esr:user": "021628",
+        "name": "Никифоровское",
+        "name:en": "Nikiforovskoye",
+        "name:fi": "Rahikkala",
+        "name:ru": "Никифоровское",
+        "old_name": "Rahikkala",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.004656,
+          60.9380897
+        ]
+      },
+      "id": "node/245429326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245429669",
+        "esr:user": "021609",
+        "name": "Возрождение",
+        "name:en": "Vozrozhdeniye",
+        "name:ru": "Возрождение",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005395",
+        "wikidata": "Q112438876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94752,
+          60.86
+        ]
+      },
+      "id": "node/245429669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245429690",
+        "esr:user": "021613",
+        "name": "Ханнила",
+        "name:en": "Hannila",
+        "name:fi": "Hannila",
+        "name:ru": "Ханнила",
+        "old_name": "Hannila",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9721319,
+          60.9189169
+        ]
+      },
+      "id": "node/245429690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264001502",
+        "alt_name": "148 км",
+        "esr:user": "023017",
+        "name": "Капеасалми",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004772",
+        "wikidata": "Q4028857",
+        "wikipedia": "ru:Капеасалми (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9882973,
+          61.0671327
+        ]
+      },
+      "id": "node/264001502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272290127",
+        "esr:user": "022711",
+        "name": "Суходолье",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004251",
+        "wikidata": "Q4447205",
+        "wikipedia": "ru:Суходолье (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1407253,
+          60.7696038
+        ]
+      },
+      "id": "node/272290127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279220639",
+        "esr:user": "022315",
+        "name": "Инкиля",
+        "name:en": "Inkilä",
+        "name:fi": "Inkilä",
+        "name:ru": "Инкиля",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005349",
+        "wikidata": "Q73257796",
+        "wikipedia": "ru:Инкиля (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.438979,
+          61.0599396
+        ]
+      },
+      "id": "node/279220639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279636631",
+        "esr:user": "022508",
+        "name": "Боровинка",
+        "name:en": "Borovinka",
+        "name:fi": "Koljola",
+        "name:ru": "Боровинка",
+        "old_name": "Koljola",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004736",
+        "wikidata": "Q25394799",
+        "wikipedia": "ru:Боровинка (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2450409,
+          60.9617562
+        ]
+      },
+      "id": "node/279636631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282096382",
+        "bench": "yes",
+        "esr:user": "022326",
+        "name": "Хаколахти",
+        "name:en": "Hakolahti",
+        "name:fi": "Hakolahti",
+        "name:ru": "Хаколахти",
+        "note": "C 2020 года обязательная остановка (проверено лично)",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004738",
+        "wikidata": "Q73269742",
+        "wikipedia": "ru:Хаколахти (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5095094,
+          61.0978717
+        ]
+      },
+      "id": "node/282096382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282252238",
+        "esr:user": "022007",
+        "name": "Лесогорский",
+        "name:fi": "Jääski",
+        "name:ru": "Лесогорский",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005299",
+        "wikidata": "Q4259880",
+        "wikipedia": "ru:Лесогорский (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9255023,
+          61.048353
+        ]
+      },
+      "id": "node/282252238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282252386",
+        "esr:user": "022103",
+        "name": "Пруды",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.034504,
+          61.012865
+        ]
+      },
+      "id": "node/282252386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291557991",
+        "esr:user": "023110",
+        "name": "Куликово",
+        "old_name": "168 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004773",
+        "wikidata": "Q86674374",
+        "wikipedia": "ru:168 км (Кузнечное — Хийтола)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7383374,
+          61.2030169
+        ]
+      },
+      "id": "node/291557991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291558819",
+        "alt_name": "176 км",
+        "esr:user": "022419",
+        "name": "176 км (Хауккаваара)",
+        "name:en": "176 km (Haukkavaara)",
+        "name:fi": "176 km (Haukkavaara)",
+        "name:ru": "176 км (Хауккаваара)",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004774",
+        "wikidata": "Q81402940",
+        "wikipedia": "ru:176 км (Хийтола — Сортавала)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6915361,
+          61.2518507
+        ]
+      },
+      "id": "node/291558819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293905407",
+        "esr:user": "021505",
+        "name": "Пригородная",
+        "name:fi": "Tienhaara",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005311",
+        "wikidata": "Q25394127",
+        "wikipedia": "ru:Пригородная (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6502164,
+          60.7521439
+        ]
+      },
+      "id": "node/293905407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312846419",
+        "addr:city": "Joutseno",
+        "addr:housenumber": "14",
+        "addr:postcode": "54100",
+        "addr:street": "Veteraanikatu",
+        "alt_name": "Joutsenon rautatieasema",
+        "name": "Joutseno",
+        "name:fi": "Joutseno",
+        "network": "VR",
+        "network:wikidata": "Q913248",
+        "operator": "Väylävirasto",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "305.826",
+        "railway:ref": "Jts",
+        "railway:ref:DB": "XHJ",
+        "start_date": "1934-10-01",
+        "train": "yes",
+        "uic_ref": "1000499",
+        "wikidata": "Q11867287",
+        "wikipedia": "fi:Joutsenon rautatieasema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4934108,
+          61.1216049
+        ]
+      },
+      "id": "node/312846419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354041984",
+        "name": "Vainikkala",
+        "network": "VR",
+        "network:wikidata": "Q913248",
+        "operator": "Väylävirasto",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:name": "Vainikkala asema",
+        "railway:position:exact": "282.784",
+        "railway:ref": "Vna",
+        "train": "yes",
+        "uic_ref": "1000492",
+        "wikidata": "Q11900040",
+        "wikipedia": "fi:Vainikkalan rautatieasema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3049253,
+          60.8634759
+        ]
+      },
+      "id": "node/354041984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/356057573",
+        "esr:user": "039814",
+        "name": "Куолемаярви",
+        "name:fi": "Kuolemajärvi",
+        "name:ru": "Куолемаярви",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005137",
+        "wikidata": "Q19909786",
+        "wikipedia": "ru:Куолемаярви (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9829546,
+          60.3376565
+        ]
+      },
+      "id": "node/356057573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/356057963",
+        "esr:user": "020201",
+        "name": "Ермилово",
+        "old_name": "Хумалйоки",
+        "old_name:fi": "Humaljoki",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005297",
+        "wikidata": "Q19909318",
+        "wikipedia": "ru:Ермилово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7746492,
+          60.3693078
+        ]
+      },
+      "id": "node/356057963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357076694",
+        "esr:user": "037700",
+        "name": "Пери",
+        "note": "центральная платформа",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004244",
+        "wikidata": "Q4351282",
+        "wikipedia": "ru:Пери (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4643835,
+          60.2472145
+        ]
+      },
+      "id": "node/357076694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357076695",
+        "esr:user": "037611",
+        "name": "Лесколово",
+        "old_name": "39 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005938",
+        "wikidata": "Q4031123",
+        "wikipedia": "ru:39-й километр"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.445008,
+          60.2723944
+        ]
+      },
+      "id": "node/357076695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357076696",
+        "esr:user": "037607",
+        "name": "Грузино",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004245",
+        "wikidata": "Q4150511",
+        "wikipedia": "ru:Грузино (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.43088,
+          60.3175312
+        ]
+      },
+      "id": "node/357076696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357076697",
+        "esr:user": "037575",
+        "name": "Лаппелово",
+        "note": "центральная платформа",
+        "old_name": "47 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005321",
+        "wikidata": "Q4031495",
+        "wikipedia": "ru:47-й километр (платформа, Ленинградская область)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4145929,
+          60.3380661
+        ]
+      },
+      "id": "node/357076697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357076698",
+        "esr:user": "037560",
+        "name": "Васкелово",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004246",
+        "wikidata": "Q4105053",
+        "wikipedia": "ru:Васкелово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3712145,
+          60.3711236
+        ]
+      },
+      "id": "node/357076698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371090708",
+        "esr:user": "022813",
+        "name": "Отрадное",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004252",
+        "wikidata": "Q4339987",
+        "wikipedia": "ru:Отрадное (станция, Ленинградская область)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1295738,
+          60.8250548
+        ]
+      },
+      "id": "node/371090708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/389877032",
+        "esr:user": "039602",
+        "name": "Каннельярви",
+        "name:en": "Kannelyarvi",
+        "name:fi": "Kanneljärvi asema",
+        "name:ru": "Каннельярви",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005048",
+        "wikidata": "Q4212519",
+        "wikipedia": "ru:Каннельярви (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3895243,
+          60.3571695
+        ]
+      },
+      "id": "node/389877032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/389882455",
+        "esr:user": "020803",
+        "name": "Кирилловское",
+        "name:en": "Kirillovskoye",
+        "name:fi": "Perkjärvi asema",
+        "name:ru": "Кирилловское",
+        "old_name:ru": "Перкъярви",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005304",
+        "wikidata": "Q4221425",
+        "wikipedia": "ru:Кирилловское (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2849402,
+          60.4673922
+        ]
+      },
+      "id": "node/389882455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429461249",
+        "esr:user": "023144",
+        "name": "Боровое",
+        "old_name": "152 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "wikidata": "Q4028940",
+        "wikipedia": "ru:152-й километр (платформа, Ленинградская область)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9241992,
+          61.0938028
+        ]
+      },
+      "id": "node/429461249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442723847",
+        "esr:user": "022645",
+        "name": "Петяярви",
+        "name:fi": "Petäjärvi",
+        "name:ru": "Петяярви",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004248",
+        "wikidata": "Q219220",
+        "wikipedia": "ru:Петяярви (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1121416,
+          60.6316975
+        ]
+      },
+      "id": "node/442723847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/505591365",
+        "esr:user": "039528",
+        "name": "Шевелево",
+        "old_name": "73 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005939",
+        "wikidata": "Q4521957",
+        "wikipedia": "ru:73 км (платформа, Ленинградская область)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.416652,
+          60.337776
+        ]
+      },
+      "id": "node/505591365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530790887",
+        "esr:user": "037518",
+        "name": "Никитино (69 км)",
+        "name:fi": "Kelliö",
+        "name:ru": "Никитино",
+        "old_name": "69 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005355",
+        "wikidata": "Q4032148",
+        "wikipedia": "ru:Никитино (остановочный пункт)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2394794,
+          60.5066254
+        ]
+      },
+      "id": "node/530790887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530790888",
+        "esr:user": "022635",
+        "name": "Колосково",
+        "old_name": "78 км/79 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004771",
+        "wikidata": "Q4032409",
+        "wikipedia": "ru:79-й километр (платформа, Ленинградская область)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1764424,
+          60.5888946
+        ]
+      },
+      "id": "node/530790888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705219230",
+        "esr:user": "037522",
+        "name": "67 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005365",
+        "wikidata": "Q4032115",
+        "wikipedia": "ru:67-й километр (платформа, Ленинградская область)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2520721,
+          60.4858677
+        ]
+      },
+      "id": "node/705219230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/722089743",
+        "esr:user": "022705",
+        "name": "Громово",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004250",
+        "wikidata": "Q4150247",
+        "wikipedia": "ru:Громово (станция, Октябрьская железная дорога)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0739027,
+          60.7254647
+        ]
+      },
+      "id": "node/722089743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/898998717",
+        "esr:user": "037503",
+        "name": "Сосново",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004683",
+        "wikidata": "Q4429650",
+        "wikipedia": "ru:Сосново (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2163593,
+          60.5475317
+        ]
+      },
+      "id": "node/898998717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904578941",
+        "esr:user": "039725",
+        "name": "Местерьярви",
+        "name:fi": "Mesterjärvi",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005289",
+        "wikidata": "Q19910061",
+        "wikipedia": "ru:Местерьярви (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2648462,
+          60.1967567
+        ]
+      },
+      "id": "node/904578941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/937255867",
+        "esr:user": "039730",
+        "name": "Яппиля",
+        "name:en": "Yappilya",
+        "name:fi": "Jäppilän pys.",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005332",
+        "wikidata": "Q18399209",
+        "wikipedia": "ru:Яппиля (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1826703,
+          60.2225585
+        ]
+      },
+      "id": "node/937255867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/937255885",
+        "esr:user": "039320",
+        "name": "Молодёжная",
+        "old_name": "Vammeljoki",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5089631,
+          60.2020662
+        ]
+      },
+      "id": "node/937255885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/950503095",
+        "esr:user": "022917",
+        "name": "Синёво",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004254",
+        "wikidata": "Q4420654",
+        "wikipedia": "ru:Синёво (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0922645,
+          60.9509731
+        ]
+      },
+      "id": "node/950503095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1110478433",
+        "esr:user": "021327",
+        "name": "Селезнёво",
+        "old_name": "138 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6255324,
+          60.7586597
+        ]
+      },
+      "id": "node/1110478433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1303202470",
+        "esr:user": "020076",
+        "name": "Пионерлагерь",
+        "name:en": "Pionerlager",
+        "name:ru": "Пионерлагерь",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9523453,
+          60.8045193
+        ]
+      },
+      "id": "node/1303202470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1327565008",
+        "esr:user": "021331",
+        "name": "Лужайка",
+        "name:fi": "Nurmi",
+        "name:ru": "Лужайка",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004025",
+        "wikidata": "Q4268189",
+        "wikipedia": "ru:Лужайка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4768631,
+          60.8059679
+        ]
+      },
+      "id": "node/1327565008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1327815845",
+        "esr:user": "020610",
+        "name": "Пихтовое",
+        "railway": "halt",
+        "uic_ref": "2005058",
+        "wikidata": "Q4363979",
+        "wikipedia": "ru:Пихтовое (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6125666,
+          60.5993045
+        ]
+      },
+      "id": "node/1327815845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1327815846",
+        "esr:user": "020625",
+        "name": "Щербаково",
+        "railway": "halt",
+        "uic_ref": "2005231",
+        "wikidata": "Q4528860",
+        "wikipedia": "ru:Щербаково (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6481195,
+          60.5917676
+        ]
+      },
+      "id": "node/1327815846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1327881343",
+        "esr:user": "022404",
+        "name": "Хийтола",
+        "name:en": "Hiytola",
+        "name:fi": "Hiitola",
+        "name:ru": "Хийтола",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Khijtola",
+        "uic_ref": "2004256",
+        "wikidata": "Q4497529",
+        "wikipedia": "ru:Хийтола (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6882827,
+          61.2356085
+        ]
+      },
+      "id": "node/1327881343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1347843341",
+        "esr:user": "021810",
+        "name": "Кивиоя",
+        "name:fi": "Kivioja",
+        "name:ru": "Кивиоя",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9048841,
+          61.0866649
+        ]
+      },
+      "id": "node/1347843341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1387597699",
+        "esr:user": "039763",
+        "name": "Зеркальный",
+        "name:en": "Zerkalny",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "1006308",
+        "wikidata": "Q16271992",
+        "wikipedia": "ru:Зеркальный (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.153404,
+          60.2440998
+        ]
+      },
+      "id": "node/1387597699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1494417433",
+        "esr:user": "021312",
+        "name": "Кравцово",
+        "name:fi": "Hovinmaa",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005279",
+        "wikidata": "Q100323807",
+        "wikipedia": "ru:Кравцово (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5738356,
+          60.7731346
+        ]
+      },
+      "id": "node/1494417433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1794933346",
+        "esr:user": "023106",
+        "name": "Кузнечное",
+        "old_name:fi": "Kaarlahti",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Kuznechnoe",
+        "uic_ref": "2004255",
+        "wikidata": "Q4245222",
+        "wikipedia": "ru:Кузнечное (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8743912,
+          61.1131667
+        ]
+      },
+      "id": "node/1794933346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1854937987",
+        "esr:user": "039617",
+        "name": "Заходское",
+        "name:en": "Zakhodskoye",
+        "name:fi": "Lounatjoki",
+        "name:ru": "Заходское",
+        "old_name": "Lounatjoki",
+        "old_name:ru": "Лоунатйоки",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005196",
+        "wikidata": "Q4188936",
+        "wikipedia": "ru:Заходское (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3522517,
+          60.4097636
+        ]
+      },
+      "id": "node/1854937987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1862930371",
+        "esr:user": "039231",
+        "name": "Комарово",
+        "name:en": "Komarovo",
+        "name:ru": "Комарово",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005340",
+        "wikidata": "Q4229392",
+        "wikipedia": "ru:Комарово (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.80904,
+          60.1845619
+        ]
+      },
+      "id": "node/1862930371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1907038870",
+        "addr:city": "Imatra",
+        "addr:housenumber": "1",
+        "addr:postcode": "55120",
+        "addr:street": "Koskikatu",
+        "alt_name": "Imatran rautatieasema",
+        "name": "Imatra",
+        "name:fi": "Imatra",
+        "name:sv": "Imatra",
+        "network": "VR",
+        "network:wikidata": "Q913248",
+        "old_name": "Imatran keskusliikenneasema",
+        "operator": "Väylävirasto",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:name": "Imatra asema",
+        "railway:position:exact": "323.977",
+        "railway:ref": "Imr",
+        "start_date": "1977-03-01",
+        "train": "yes",
+        "uic_ref": "1000603",
+        "wikidata": "Q11864759",
+        "wikipedia": "fi:Imatran rautatieasema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7760207,
+          61.1959127
+        ]
+      },
+      "id": "node/1907038870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011157176",
+        "esr:user": "039301",
+        "name": "Зеленогорск",
+        "name:en": "Zelenogorsk",
+        "name:ru": "Зеленогорск",
+        "old_name:fi": "Terijoki",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004232",
+        "wikidata": "Q4190328",
+        "wikipedia": "ru:Зеленогорск (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7004685,
+          60.2054978
+        ]
+      },
+      "id": "node/2011157176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011157210",
+        "esr:user": "020930",
+        "name": "Лазаревка",
+        "name:en": "Lazarevka",
+        "name:ru": "Лазаревка",
+        "old_name:fi": "Liimatta",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005404",
+        "wikidata": "Q4252870",
+        "wikipedia": "ru:Лазаревка (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8161561,
+          60.6905156
+        ]
+      },
+      "id": "node/2011157210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011157370",
+        "esr:user": "039405",
+        "name": "Рощино",
+        "name:en": "Roschino",
+        "name:ru": "Рощино",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005185",
+        "wikidata": "Q4398849",
+        "wikipedia": "ru:Рощино (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5742598,
+          60.2491029
+        ]
+      },
+      "id": "node/2011157370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011157461",
+        "esr:user": "039316",
+        "name": "Ушково",
+        "name:en": "Ushkovo",
+        "name:fi": "Tyrisevä",
+        "name:ru": "Ушково",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005366",
+        "wikidata": "Q4479665",
+        "wikipedia": "ru:Ушково (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6246248,
+          60.2207751
+        ]
+      },
+      "id": "node/2011157461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011157477",
+        "esr:user": "039410",
+        "name": "Мухинское болото",
+        "old_name": "платформа Мэри-суо/63 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005298",
+        "wikidata": "Q4032044",
+        "wikipedia": "ru:63-й километр (платформа, Выборгское направление)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5305425,
+          60.2737434
+        ]
+      },
+      "id": "node/2011157477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012486876",
+        "esr:user": "023002",
+        "name": "Приозерск",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Priozersk",
+        "uic_ref": "2004684",
+        "wikidata": "Q4378935",
+        "wikipedia": "ru:Приозерск (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1026553,
+          61.0358683
+        ]
+      },
+      "id": "node/2012486876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012627811",
+        "esr:user": "020517",
+        "name": "Попово",
+        "name:en": "Popovo",
+        "old_name:fi": "Kaislahti asema",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "source:name:fi": "https://www.karjalankartat.fi/?language=fi&E=4429936.324084585&N=6719698.161818466&scale=10000&base=OpenLayers.Layer.WMS_4",
+        "train": "yes",
+        "uic_ref": "2005474",
+        "wikidata": "Q14927545",
+        "wikipedia": "ru:Попово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7154948,
+          60.5861064
+        ]
+      },
+      "id": "node/2012627811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014636356",
+        "esr:user": "021007",
+        "name": "Таммисуо",
+        "name:de": "Tammisuo",
+        "name:en": "Tammisuo",
+        "name:fi": "Tammisuo",
+        "name:ru": "Таммисуо",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005139",
+        "wikidata": "Q18661669",
+        "wikipedia": "ru:Таммисуо (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8054074,
+          60.7327066
+        ]
+      },
+      "id": "node/2014636356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2341199442",
+        "alt_name": "Лосево 1; Лосево-1",
+        "esr:user": "022654",
+        "name": "Лосево I",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q16672136",
+        "wikipedia": "ru:Лосево-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0358784,
+          60.6657341
+        ]
+      },
+      "id": "node/2341199442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2438845303",
+        "esr:user": "020310",
+        "name": "Бор",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005047",
+        "wikidata": "Q4093433",
+        "wikipedia": "ru:Бор (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6787316,
+          60.4198182
+        ]
+      },
+      "id": "node/2438845303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2523342334",
+        "esr:user": "022207",
+        "name": "Красный Сокол",
+        "name:en": "Krasny Sokol",
+        "name:ru": "Красный Сокол",
+        "old_name": "Сысоевская",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004786",
+        "wikidata": "Q73262912",
+        "wikipedia": "ru:Красный Сокол (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3206088,
+          60.9830612
+        ]
+      },
+      "id": "node/2523342334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2523342335",
+        "esr:user": "021632",
+        "name": "Рябиновый полуостров",
+        "old_name": "38 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0760633,
+          60.9604055
+        ]
+      },
+      "id": "node/2523342335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2523342336",
+        "alt_name": "Лениярви",
+        "esr:user": "021721",
+        "name": "59 км",
+        "name:en": "59 km",
+        "name:ru": "59 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004737",
+        "wikidata": "Q73406211",
+        "wikipedia": "ru:59-й километр (платформа, Выборг — Хийтола)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3977656,
+          61.0047166
+        ]
+      },
+      "id": "node/2523342336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930981485",
+        "name": "Выборг-перевалка",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.733775,
+          60.7080379
+        ]
+      },
+      "id": "node/2930981485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2930981486",
+        "name": "Выборг-экспорт",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7369508,
+          60.7042606
+        ]
+      },
+      "id": "node/2930981486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3683023341",
+        "esr:user": "020038",
+        "name": "Пальцево",
+        "name:en": "Paltsevo",
+        "name:fi": "Tali",
+        "name:ru": "Пальцево",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8837383,
+          60.7635596
+        ]
+      },
+      "id": "node/3683023341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3683029276",
+        "esr:user": "020042",
+        "name": "12 км",
+        "name:en": "12 km",
+        "name:ru": "12 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8994026,
+          60.7698395
+        ]
+      },
+      "id": "node/3683029276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3683029277",
+        "esr:user": "020057",
+        "name": "13 км",
+        "name:en": "13 km",
+        "name:fi": "Repola",
+        "name:ru": "13 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9127195,
+          60.7726997
+        ]
+      },
+      "id": "node/3683029277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703801457",
+        "name": "165 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2006322",
+        "wikidata": "Q86674374",
+        "wikipedia": "ru:168 км (Кузнечное — Хийтола)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7696444,
+          61.1832965
+        ]
+      },
+      "id": "node/3703801457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3758609444",
+        "construction:public_transport": "station",
+        "name": "Дружное",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes",
+        "wikidata": "Q80605278",
+        "wikipedia": "ru:Дружное (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.765387,
+          60.7632656
+        ]
+      },
+      "id": "node/3758609444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144207932",
+        "esr:user": "039744",
+        "name": "Тарасовское",
+        "name:en": "Tarasovskoe",
+        "name:fi": "Naurisjärvi pys.",
+        "old_name": "Наурисъярви",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005056",
+        "wikidata": "Q19916840",
+        "wikipedia": "ru:Тарасовское (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1362992,
+          60.2606
+        ]
+      },
+      "id": "node/4144207932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190942238",
+        "construction:public_transport": "station",
+        "name": "50 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3349189,
+          60.9330235
+        ]
+      },
+      "id": "node/4190942238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190942273",
+        "name": "55 км",
+        "name:en": "55 km",
+        "name:ru": "55 км",
+        "railway": "halt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2417757,
+          60.9472235
+        ]
+      },
+      "id": "node/4190942273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190942295",
+        "esr:user": "022616",
+        "name": "Лосево",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004249",
+        "wikidata": "Q4267176",
+        "wikipedia": "ru:Лосево (остановочный пункт)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0041268,
+          60.6852979
+        ]
+      },
+      "id": "node/4190942295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190942297",
+        "name": "Озёрское",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4961479,
+          60.8562881
+        ]
+      },
+      "id": "node/4190942297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190942300",
+        "construction:public_transport": "station",
+        "name": "Понтонная",
+        "name:ru": "Понтонная",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes",
+        "wikidata": "Q80604650",
+        "wikipedia": "ru:Понтонная (платформа, Каменногорское направление)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9197913,
+          60.6984881
+        ]
+      },
+      "id": "node/4190942300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190942301",
+        "construction:public_transport": "station",
+        "name": "Ромашки",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes",
+        "wikidata": "Q80603953",
+        "wikipedia": "ru:Ромашки (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8273098,
+          60.7284365
+        ]
+      },
+      "id": "node/4190942301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5064126769",
+        "esr:user": "020019",
+        "name": "Кузнечная улица",
+        "old_name": "2 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005476",
+        "wikidata": "Q28667882",
+        "wikipedia": "ru:2-й километр (платформа, Каменногорское направление)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7798848,
+          60.7171492
+        ]
+      },
+      "id": "node/5064126769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327309430",
+        "name": "134 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7013625,
+          60.7405409
+        ]
+      },
+      "id": "node/5327309430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532820444",
+        "name": "5 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0981856,
+          60.9910476
+        ]
+      },
+      "id": "node/5532820444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5742168983",
+        "esr:user": "020818",
+        "name": "Лейпясуо",
+        "name:en": "Leypyasuo",
+        "name:fi": "Leipäsuo",
+        "name:ru": "Лейпясуо",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005199",
+        "wikidata": "Q14927542",
+        "wikipedia": "ru:Лейпясуо (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1548765,
+          60.5515938
+        ]
+      },
+      "id": "node/5742168983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5744733817",
+        "esr:user": "020907",
+        "name": "Гаврилово",
+        "name:en": "Gavrilovo",
+        "name:ru": "Гаврилово",
+        "old_name:fi": "Kämärä",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005266",
+        "wikidata": "Q4131262",
+        "wikipedia": "ru:Гаврилово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.044324,
+          60.5910742
+        ]
+      },
+      "id": "node/5744733817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5748002707",
+        "esr:user": "020911",
+        "name": "Лебедевка",
+        "name:en": "Lebedevka",
+        "name:fi": "Honkaniemi",
+        "name:ru": "Лебедевка",
+        "old_name": "Honkaniemi",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005333",
+        "wikidata": "Q4255863",
+        "wikipedia": "ru:Лебедевка (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.95621,
+          60.6277847
+        ]
+      },
+      "id": "node/5748002707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5748009867",
+        "esr:user": "020926",
+        "name": "117 км",
+        "name:en": "117 km",
+        "name:ru": "117 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004817",
+        "wikidata": "Q4028460",
+        "wikipedia": "ru:117-й километр (платформа, Выборгское направление)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9180531,
+          60.6441939
+        ]
+      },
+      "id": "node/5748009867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5748017918",
+        "esr:user": "021204",
+        "name": "Верхне-Черкасово",
+        "name:en": "Verkhne-Cherkasovo",
+        "name:fi": "Säiniö",
+        "name:ru": "Верхне-Черкасово",
+        "old_name": "Säiniö",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005216",
+        "wikidata": "Q4108297",
+        "wikipedia": "ru:Верхне-Черкасово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8816084,
+          60.6604875
+        ]
+      },
+      "id": "node/5748017918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5764638541",
+        "esr:user": "039513",
+        "name": "Горьковское",
+        "name:en": "Gorkovskoye",
+        "name:ru": "Горьковское",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005116",
+        "wikidata": "Q4146161",
+        "wikipedia": "ru:Горьковское (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5002794,
+          60.2908365
+        ]
+      },
+      "id": "node/5764638541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487711475",
+        "esr:user": "020521",
+        "name": "Матросово",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2005475",
+        "wikidata": "Q4284991",
+        "wikipedia": "ru:Матросово (остановочный пункт)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7450282,
+          60.6095445
+        ]
+      },
+      "id": "node/6487711475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8487394033",
+        "alt_name:de": "Wiborg",
+        "esr:user": "020004",
+        "int_name": "Vyborg",
+        "name": "Выборг",
+        "name:de": "Wyborg",
+        "name:en": "Vyborg",
+        "name:et": "Viiburi",
+        "name:fi": "Viipuri",
+        "name:ru": "Выборг",
+        "name:sv": "Viborg",
+        "old_name:de": "Wiburg",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Vyborg/Viipuri",
+        "uic_ref": "2004682",
+        "wheelchair": "yes",
+        "wikidata": "Q2638238",
+        "wikipedia": "ru:Выборг (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7525404,
+          60.7156919
+        ]
+      },
+      "id": "node/8487394033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8490537096",
+        "construction:public_transport": "station",
+        "name": "Озёрское",
+        "name:fi": "Vuoksenranta",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes",
+        "wikidata": "Q73402168",
+        "wikipedia": "ru:Озёрское (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4904295,
+          60.8619259
+        ]
+      },
+      "id": "node/8490537096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8490537109",
+        "name": "Дружное",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q80605278",
+        "wikipedia": "ru:Дружное (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7542006,
+          60.7678738
+        ]
+      },
+      "id": "node/8490537109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8491782413",
+        "esr:user": "020080",
+        "name": "Соколиное озеро",
+        "old_name": "21 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2005111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9501078,
+          60.8344912
+        ]
+      },
+      "id": "node/8491782413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875072002",
+        "name": "24 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8665904,
+          61.1037021
+        ]
+      },
+      "id": "node/9875072002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875072003",
+        "esr:user": "021806",
+        "name": "Светогорск",
+        "name:fi": "Enso",
+        "name:ru": "Светогорск",
+        "old_name": "Enso",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "station",
+        "railway:name:fi": "Svetogorsk",
+        "railway:ref:fi": "Stg",
+        "train": "yes",
+        "uic_ref": "2005006",
+        "wikidata": "Q76360345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8460823,
+          61.1177553
+        ]
+      },
+      "id": "node/9875072003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9961281473",
+        "name": "144 км",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.53914,
+          60.7851662
+        ]
+      },
+      "id": "node/9961281473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9961281474",
+        "esr:user": "028504",
+        "name": "Бусловская",
+        "name:fi": "Buslovskaja (Louko)",
+        "name:ru": "Бусловская",
+        "operator:branch": "Октябрьская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2004928",
+        "wikidata": "Q4100099",
+        "wikipedia": "ru:Бусловская (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3777779,
+          60.8405101
+        ]
+      },
+      "id": "node/9961281474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10314936572",
+        "name": "Игора",
+        "name:en": "Igora",
+        "name:ru": "Игора",
+        "railway": "halt",
+        "wikidata": "Q116843330",
+        "wikipedia": "ru:Игора (платформа)",
+        "wikipedia:ru": "Игора (платформа)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.233098,
+          60.5170277
+        ]
+      },
+      "id": "node/10314936572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10635267266",
+        "esr:user": "024626",
+        "name": "Куркункула",
+        "operator": "ОАО «РЖД»",
+        "operator:branch": "Октябрьская железная дорога",
+        "railway": "halt",
+        "train": "yes",
+        "uic_ref": "2004309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9667056,
+          61.2953993
+        ]
+      },
+      "id": "node/10635267266"
+    }
+  ]
+}
