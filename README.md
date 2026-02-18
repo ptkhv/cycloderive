@@ -1,5 +1,5 @@
 # cycloderive
-A program inspired by Guy Debord and his concept of the dérive. It helps choose a route for a bicycle trip from one railway station to another. 
+A program inspired by Guy Debord and his concept of the dérive. It helps to choose a route for a bicycle trip from one railway station to another. 
 Программа вдохновлена идеей Ги Дебора о дрейфе и психогеографии, а также велосипедом shulz wanderer. Она позволяет, загрузив необходимые данные, получить варианты ~10 случайных веломаршрутов в интересующей пользователя области (диапазон длины пользователь выбирает сам). Вики проекта  [тут](https://github.com/ptkhv/cycloderive/wiki).
 Работает roads and stations работает следующим образом:
 1. Нужно самостоятельно подготовить geojson-файлы с интересующей вас местностью (инструкция [тут](https://github.com/ptkhv/cycloderive/wiki));
